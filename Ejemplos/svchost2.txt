@@ -1,0 +1,142 @@
+
+Nombre de imagen               PID Servicios                                    
+========================= ======== =============================================
+System Idle Process              0 N/D                                          
+System                           4 N/D                                          
+smss.exe                       452 N/D                                          
+csrss.exe                      732 N/D                                          
+wininit.exe                    828 N/D                                          
+csrss.exe                      852 N/D                                          
+services.exe                   900 N/D                                          
+lsass.exe                      916 KeyIso, SamSs                                
+lsm.exe                        924 N/D                                          
+svchost.exe                    156 DcomLaunch, PlugPlay, Power                  
+nvvsvc.exe                     752 nvsvc                                        
+svchost.exe                    736 RpcEptMapper, RpcSs                          
+MsMpEng.exe                   1032 MsMpSvc                                      
+winlogon.exe                  1080 N/D                                          
+svchost.exe                   1192 AudioSrv, Dhcp, eventlog, lmhosts, wscsvc    
+svchost.exe                   1224 AudioEndpointBuilder, dot3svc, hidserv,      
+                                   Netman, PcaSvc, SysMain, TabletInputService, 
+                                   TrkWks, UxSms, Wlansvc                       
+svchost.exe                   1280 EventSystem, FontCache, netprofm, nsi,       
+                                   SstpSvc, WdiServiceHost, WinHttpAutoProxySvc 
+svchost.exe                   1308 AeLookupSvc, BITS, Browser, CertPropSvc,     
+                                   EapHost, iphlpsvc, LanmanServer, MMCSS,      
+                                   ProfSvc, RasMan, Schedule, SENS,             
+                                   ShellHWDetection, Themes, Winmgmt, wuauserv  
+svchost.exe                   1396 gpsvc                                        
+svchost.exe                   1508 CryptSvc, Dnscache, LanmanWorkstation,       
+                                   NlaSvc, TapiSrv                              
+AsLdrSrv.exe                  1632 ASLDRService                                 
+wlanext.exe                   1684 N/D                                          
+conhost.exe                   1708 N/D                                          
+nvxdsync.exe                  1752 N/D                                          
+nvvsvc.exe                    1764 N/D                                          
+GFNEXSrv.exe                  1772 ATKGFNEXSrv                                  
+wisptis.exe                   1852 N/D                                          
+taskeng.exe                   2000 N/D                                          
+spoolsv.exe                   2008 Spooler                                      
+svchost.exe                    856 FDResPub, SCardSvr, SSDPSRV                  
+svchost.exe                   1360 BFE, DPS, MpsSvc                             
+armsvc.exe                    2080 AdobeARMservice                              
+InsOnSrv.exe                  2100 ASUS InstantOn                               
+devmonsrv.exe                 2124 Bluetooth Device Monitor                     
+svchost.exe                   2232 bthserv                                      
+DptfParticipantProcessorS     2304 DptfParticipantProcessorService              
+DptfPolicyConfigTDPServic     2352 DptfPolicyConfigTDPService                   
+EvtEng.exe                    2392 EvtEng                                       
+ExpressCache.exe              2456 ExpressCache                                 
+HeciServer.exe                2520 Intel(R) Capability Licensing Service Interfa
+                                   ce                                           
+IntelMeFWService.exe          2544 Intel(R) ME Service                          
+irstrtsv.exe                  2600 irstrtsv                                     
+Jhi_service.exe               2636 jhi_service                                  
+RegSrvc.exe                   2696 RegSrvc                                      
+svchost.exe                   2824 stisvc                                       
+TuneUpUtilitiesService64.     2884 TuneUp.UtilitiesSvc                          
+vmnat.exe                     2928 VMware NAT Service                           
+ZeroConfigService.exe         2980 ZeroConfigService                            
+obexsrv.exe                   3012 Bluetooth OBEX Service                       
+unsecapp.exe                  3068 N/D                                          
+WmiPrvSE.exe                  2140 N/D                                          
+vmware-authd.exe              3108 VMAuthdService                               
+vmnetdhcp.exe                 3216 VMnetDHCP                                    
+vmware-usbarbitrator64.ex     3236 VMUSBArbService                              
+vmware-hostd.exe              3308 VMwareHostd                                  
+WmiPrvSE.exe                  3632 N/D                                          
+NisSrv.exe                    3724 NisSrv                                       
+taskhost.exe                  4036 N/D                                          
+HControl.exe                  3972 N/D                                          
+InsOnWMI.exe                  1716 N/D                                          
+wisptis.exe                   1696 N/D                                          
+taskeng.exe                   1660 N/D                                          
+TabTip.exe                    1620 N/D                                          
+TuneUpUtilitiesApp64.exe      4160 N/D                                          
+TabTip32.exe                  4220 N/D                                          
+dwm.exe                       4324 N/D                                          
+USBChargerPlus.exe            4456 N/D                                          
+GoogleUpdate.exe              4464 N/D                                          
+explorer.exe                  4472 N/D                                          
+ATKOSD2.exe                   4504 N/D                                          
+wcourier.exe                  4512 N/D                                          
+BatteryLife.exe               4552 N/D                                          
+ADDEL.exe                     4572 N/D                                          
+ATKOSD.exe                    4640 N/D                                          
+KBFiltr.exe                   4816 N/D                                          
+WDC.exe                       4852 N/D                                          
+AsusTPLoader.exe              5052 N/D                                          
+RAVCpl64.exe                   884 N/D                                          
+QuickGesture64.exe            1704 N/D                                          
+BleServicesCtrl.exe           4152 N/D                                          
+msseces.exe                   3952 N/D                                          
+googledrivesync.exe           4216 N/D                                          
+chrome.exe                    4332 N/D                                          
+QuickGesture.exe              4352 N/D                                          
+Dropbox.exe                   4136 N/D                                          
+iusb3mon.exe                  1172 N/D                                          
+DMedia.exe                    1656 N/D                                          
+HControlUser.exe              5072 N/D                                          
+chrome.exe                    5440 N/D                                          
+netsetman.exe                 5652 N/D                                          
+vmware-tray.exe               5708 N/D                                          
+chrome.exe                    5972 N/D                                          
+chrome.exe                    5984 N/D                                          
+chrome.exe                    5992 N/D                                          
+chrome.exe                    6020 N/D                                          
+chrome.exe                    6032 N/D                                          
+chrome.exe                    6040 N/D                                          
+chrome.exe                    6060 N/D                                          
+AsusTPHelper.exe              6100 N/D                                          
+chrome.exe                    6124 N/D                                          
+chrome.exe                    2688 N/D                                          
+chrome.exe                    5952 N/D                                          
+chrome.exe                    5956 N/D                                          
+chrome.exe                    1128 N/D                                          
+chrome.exe                    1692 N/D                                          
+nvtray.exe                    4600 N/D                                          
+chrome.exe                    1140 N/D                                          
+mediasrv.exe                  6316 Bluetooth Media Service                      
+SearchIndexer.exe             6620 WSearch                                      
+googledrivesync.exe           5340 N/D                                          
+nacl64.exe                    5164 N/D                                          
+nacl64.exe                    5464 N/D                                          
+SearchProtocolHost.exe        8080 N/D                                          
+BTHSAmpPalService.exe         4172 AMPPALR3                                     
+BTHSSecurityMgr.exe           6760 BTHSSecurityMgr                              
+LMS.exe                       8148 LMS                                          
+daemonu.exe                   7924 nvUpdatusService                             
+wmpnetwk.exe                  4916 WMPNetworkSvc                                
+UNS.exe                       7372 UNS                                          
+eclipse.exe                   3120 N/D                                          
+chrome.exe                    2476 N/D                                          
+javaw.exe                     7876 N/D                                          
+javaw.exe                     2224 N/D                                          
+AsusTPCenter.exe              2164 N/D                                          
+chrome.exe                    6648 N/D                                          
+audiodg.exe                   2956 N/D                                          
+notepad++.exe                 8180 N/D                                          
+SearchFilterHost.exe          5768 N/D                                          
+javaw.exe                     6948 N/D                                          
+tasklist.exe                  7384 N/D                                          
+conhost.exe                   2380 N/D                                          

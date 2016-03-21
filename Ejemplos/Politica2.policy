@@ -1,0 +1,3 @@
+grant codeBase "file:C:/Users/Javier/Documents/Proyectos/Ejemplos/bin/*"{
+permission java.io.FilePermission "C:\\Users\\Javier\\Documents\\Proyectos\\Ejemplos\\*", "write";
+};
